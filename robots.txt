@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: kylethieringer.com/sitemap.xml
+Sitemap: https://www.kylethieringer.com/sitemap.xml
