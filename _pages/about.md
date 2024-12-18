@@ -4,7 +4,7 @@ title: home
 permalink: /
 subtitle: phd student at the university of washington
 profile:
-  align: right
+  align: center
   image: website_pic_square.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
